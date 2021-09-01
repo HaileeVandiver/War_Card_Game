@@ -1,49 +1,43 @@
-java.util.ArrayList;
-/**
- * Write a description of Deck here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
- */
+import java.util.ArrayList;
 public class Deck {
-    private ArrrayList<Card> deck;
+   ArrrayList<Card> myDeck;
 
-   public Deck() {
-       deck = new ArrayList<Card>(); 
+   public Deck(String[]ranks, String[] suits, int[] values) {
+       myDeck = new ArrayList<Card>(52); 
+       ranks = 
+       suits =
+       values =
       
        for (int i=0; i < suits.length; i++){
            for( int x = 0; ranks.length; x++){
                deck.add(new Card(suits[i], ranks[x]));
+               /* Check to make sure ranks and values are the same length */
+      /* Iterate over each suit */
+      //   Iterate an index from 0 to length of ranks */
+      //     Make a card and add it to a collection
+     
 
+   public void shuffle() {
+      Collections.shuffle(this.cards);
     }
-   }
-}
 
-   void shuffle() {
-      /* See java.util.Collections.shuffle() */
-   }
-
-   Card deal() {
+   public Card deal() {
         if (size == 0) 
         return null;
         else{ 
             size--;
             return cards.get(size);
+        }
+    }
         
-   }
-
-}
     @Override 
     public String toString() {
-        String cardListOutput="";
-        int i=0;
-        for(Card aCard : this.deck){
-            cardlistOutput+="\n" +i + " " + aCard.toString(); 
-            i++;
-        }
-       return cardListOutput;
-       
+        String rtn = "size = " + size + "\nUndealt cards: \n";
+        
+        for(int k = size - 1; k>= 0; k--)
 
     }
    }
- 
+}
+}
+}
