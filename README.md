@@ -25,7 +25,11 @@ There are four classes
       :spades:This project was built with IntelliJ 
       <hr size = "4">
       
+<hr size = "4">
 
+<h3> How to Run: </h3>
+:clubs:Main method is inside WarGame class 
+:diamondsWhen Main is run, a game is simulated between two players 
       
 <h3> Author: </h3>
       :hearts:Hailee Vandiver
