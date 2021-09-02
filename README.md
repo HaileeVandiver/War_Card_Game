@@ -7,9 +7,9 @@ This is a command line app where two "players" play the game of war. The rules f
 There are four classes 
 
 <h3> Classes: </h3>
-:spades:Player- represents actions the player can take
-:hearts:Card- represents attributes a card has 
-:clubs:Deck- populates with 52 cards and can deal and shuffle
+:spades:Player- represents actions the player can take<br />
+:hearts:Card- represents attributes a card has<br /> 
+:clubs:Deck- populates with 52 cards and can deal and shuffle<br />
 :diamonds:WarGame- represents the "table" where the game takes place and contains the Main method. Objects are created here and the game is executed
  <hr size = "4">
  
@@ -22,12 +22,12 @@ There are four classes
 <hr size = "4">
 
 <h3> Built With: </h3>
-      <li>This project was built with IntelliJ </li>
+      :spades:This project was built with IntelliJ 
       <hr size = "4">
       
 \
       
 <h3> Author: </h3>
-      <li>Hailee Vandiver </li>
+      :hearts:Hailee Vandiver
      
 <hr size = "4">
