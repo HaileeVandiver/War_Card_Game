@@ -31,7 +31,7 @@ There are four classes
 <hr size = "4">
 
 <h3> Output: </h3>
-![example output](https://github.com/HaileeVandiver/War_Card_Game/blob/0dde4464bc98648a06a1ea7a2849ab4fb725fe19/WarGame%20Output.PNG)
+![example output](WarGame Output.PNG)
 
 
 
