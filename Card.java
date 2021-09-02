@@ -1,16 +1,21 @@
-
 public class Card {
-   
-    private String suit; //String that holds suit of card
-    
-    private String rank; //String that holds rank of card(10,Jack, Queen, etc.)
-    
-    private int pointValue; //Integer that holds the point value (10,11,12,etc.)
-    
+
+    //String that holds suit of card
+    private String suit;
+
+    //String that holds rank of card(10,Jack, Queen, etc.)
+    private String rank;
+
+    //Integer that holds the point value (10,11,12,etc.)
+    private int pointValue;
+
     public Card(String rank, String suit, int pointValue){
-        this.rank = rank;// initialize rank of card
-        this.suit = suit; //initialize suit of card
-        this.pointValue = pointValue; //initialize the value of card
+        // initialize rank of card
+        this.rank = rank;
+        //initialize suit of card
+        this.suit = suit;
+        //initialize the value of card
+        this.pointValue = pointValue;
     }
     public String getSuit(){
         return suit;
@@ -19,14 +24,13 @@ public class Card {
         return rank;
     }
     public int getPointValue(){
-        return pointValue; 
+        return pointValue;
     }
-   
-    @Override 
+
+    @Override
     public String toString(){
-        return suit  + rank  + pointValue; 
+        return suit + " of " + rank;
     }
-}
-   
+}  
     
 
