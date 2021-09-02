@@ -28,7 +28,7 @@ There are four classes
 <hr size = "4">
 
 <h3> How to Run: </h3>
-:clubs:Main method is inside WarGame class 
+:clubs:Main method is inside WarGame class <br />
 :diamonds:When Main is run, a game is simulated between two players 
       
 <h3> Author: </h3>
