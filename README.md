@@ -25,7 +25,7 @@ There are four classes
       :spades:This project was built with IntelliJ 
       <hr size = "4">
       
-\
+
       
 <h3> Author: </h3>
       :hearts:Hailee Vandiver
