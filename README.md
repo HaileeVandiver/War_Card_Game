@@ -30,8 +30,20 @@ There are four classes
 :diamonds:When Main is run, a game is simulated between two players 
 <hr size = "4">
 
-<h3> Output: </h3>
-![example output](WarGame Output.PNG)
+<h3> Example Output: </h3>
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+[]
+Player 1 stack=51 Player 2 stack=1
+Player 1 card=Six of Diamonds
+Player 2 card=Two of Clubs
+6 5 13 10 11 4 10 5 7 1 12 10 9 5 1 8 12 9 13 12 10 2 8 5 7 11 3 6 1 9 6 8 8 4 4 3 3 2 4 2 11 3 7 1 13 11 12 9 13 7 
+
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+
+Player 1 stack=52 Player 2 stack=0
+The Winner is p1.
+
+
 
 
 
