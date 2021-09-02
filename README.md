@@ -51,6 +51,8 @@ The Winner is p1.
 In addition to project requirements, in the future I would like to add<br />
 :spades:Ability to play as a user instead of watching a simulation<br />
 :hearts:Visualisation of cards
+:clubs:I learned a lot while making this project. I look forward to discussing the code further with you. 
+:diamonds:I want to stress how much I want to join the Aspen Capital team and how grateful I am for this opportunity! 
 
 
 
