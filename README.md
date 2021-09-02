@@ -23,7 +23,7 @@ There are four classes
 
 <h3> Built With: </h3>
       :spades:This project was built with IntelliJ 
-      <hr size = "4">
+      
 
 <h3> How to Run: </h3>
 :clubs:Main method is inside WarGame class <br />
@@ -31,7 +31,8 @@ There are four classes
 <hr size = "4">
 
 <h3> Output: </h3>
-<hr size = "4">
+
+
 
 <h3> Future Steps: </h3>
 In addition to project requirements, in the future I would like to add<br />
@@ -40,7 +41,7 @@ In addition to project requirements, in the future I would like to add<br />
 
 
 
-<hr size = "4">
+
 <h3> Author: </h3>
       :hearts:Hailee Vandiver
      
