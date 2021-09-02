@@ -6,10 +6,11 @@
 This is a command line app where two "players" play the game of war. The rules for war can be found here https://bicyclecards.com/how-to-play/war/
 There are four classes 
 
-Player 
-Card
-Deck 
-WarGame
+<h3> Classes: </h3>
+:spades:Player- represents actions the player can take
+:hearts:Card- represents attributes a card has 
+:clubs:Deck- populates with 52 cards and can deal and shuffle
+:diamonds:WarGame- represents the "table" where the game takes place and contains the Main method. Objects are created here and the game is executed
  <hr size = "4">
  
  <h3> Flowchart: </h3>
