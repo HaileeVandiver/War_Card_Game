@@ -32,15 +32,15 @@ There are four classes
 
 <h3> Example Output: </h3>
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
-[]
-Player 1 stack=51 Player 2 stack=1
-Player 1 card=Six of Diamonds
-Player 2 card=Two of Clubs
-6 5 13 10 11 4 10 5 7 1 12 10 9 5 1 8 12 9 13 12 10 2 8 5 7 11 3 6 1 9 6 8 8 4 4 3 3 2 4 2 11 3 7 1 13 11 12 9 13 7 
+[]<br />
+Player 1 stack=51 Player 2 stack=1<br />
+Player 1 card=Six of Diamonds<br />
+Player 2 card=Two of Clubs<br />
+6 5 13 10 11 4 10 5 7 1 12 10 9 5 1 8 12 9 13 12 10 2 8 5 7 11 3 6 1 9 6 8 8 4 4 3 3 2 4 2 11 3 7 1 13 11 12 9 13 7 <br />
 
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]<br />
 
-Player 1 stack=52 Player 2 stack=0
+Player 1 stack=52 Player 2 stack=0<br />
 The Winner is p1.
 
 
