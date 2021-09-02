@@ -24,13 +24,23 @@ There are four classes
 <h3> Built With: </h3>
       :spades:This project was built with IntelliJ 
       <hr size = "4">
-      
-<hr size = "4">
 
 <h3> How to Run: </h3>
 :clubs:Main method is inside WarGame class <br />
 :diamonds:When Main is run, a game is simulated between two players 
-      
+<hr size = "4">
+
+<h3> Output: </h3>
+<hr size = "4">
+
+<h3> Future Steps: </h3>
+In addition to project requirements, in the future I would like to add<br />
+:spades:Ability to play as a user instead of watching a simulation<br />
+:hearts:Visualisation of cards
+
+
+
+<hr size = "4">
 <h3> Author: </h3>
       :hearts:Hailee Vandiver
      
