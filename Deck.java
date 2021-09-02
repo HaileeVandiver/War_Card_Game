@@ -11,14 +11,16 @@ public class Deck {
 
     public Deck(){
         cards = new ArrayList<Card>(52);
-        /* Check to make sure ranks and values are the same length
+        /** Check to make sure ranks and values are the same length
         * Iterate over each suit
         * Iterate an index from 0 to length of ranks
-        * Make a card and add it to a collection*/
+        * Make a card and add it to a collection
+        */
         for (int i=0; i < SUITS.length; i++){
             for( int j = 0; j < RANKS.length; j++){
-                /*iterating through suits and ranks to populate the deck
-                *using j for both ranks and values to ensure that cards have point values even when face card*/
+                /**iterating through suits and ranks to populate the deck
+                *using j for both ranks and values to ensure that cards have point values even when face card
+                */
                 cards.add(new Card(SUITS[i], RANKS[j], VALUES[j]));
             }
         }
@@ -33,7 +35,9 @@ public class Deck {
             return null;
         }
         Card removedCard = cards.remove(cards.size()-1);
-        // return the "dealt" card
+        /** 
+        *return the "dealt" card
+        */
         return removedCard;
 
     }
